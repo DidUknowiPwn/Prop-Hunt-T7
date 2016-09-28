@@ -1,0 +1,23 @@
+VERSION				"1"
+CONFIG					"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES				""
+
+REFERENCE           	OBJECTIVES_PROP
+LANG_ENGLISH       	"Dummy"
+
+REFERENCE           	OBJECTIVES_PROP_HINT
+LANG_ENGLISH       	"Dummy"
+
+REFERENCE           	OBJECTIVES_PROP_SCORE
+LANG_ENGLISH       	"Dummy"
+
+REFERENCE           	DRAFT_STARTS_IN
+LANG_ENGLISH       	"Dummy"
+
+REFERENCE				SCORE_KILL_INF
+LANG_ENGLISH       	"Dummy"
+
+REFERENCE				SCORE_KILL_SUR
+LANG_ENGLISH       	"Dummy"
+
+ENDMARKER

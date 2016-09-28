@@ -1,0 +1,8 @@
+>mode,mp
+>type,common
+
+#include "mp_mod.class"
+
+scriptparsetree,scripts/mp/gametypes/prop.gsc
+scriptparsetree,scripts/mp/gametypes/prop.csc
+rawfile,gamedata/gamesettings/mp/gamesettings_prop.cfg
